@@ -1,0 +1,56 @@
+.container
+{
+    padding: 5rem;
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}
+.text
+{
+  font-size: large;
+}
+.value
+{
+    background-color:#4338ca;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 50%;
+    position: relative;
+    top:-1rem;
+    left:-0.6rem;
+    font-size: small;
+}
+.badge
+{
+    padding: 2rem;
+}
+
+
+/* button with badge */
+.btn
+{
+    font-size: medium;
+    padding: 0.2rem;
+    background-color:#4338ca;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 1rem;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: burlywood;
+}
+.value1
+{
+    background-color:pink;
+    color:black;
+    padding: 0.5rem;
+    border-radius: 50%;
+    position: relative;
+    top:-1rem;
+    left:-6rem;
+    font-size: small;  
+}
+
+/* icon with badge */
